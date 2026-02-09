@@ -1,3 +1,1 @@
-`
-https://mhdishaan04.github.io/weather-app/
-`
+`  https://mhdishaan04.github.io/weather-app/   `
