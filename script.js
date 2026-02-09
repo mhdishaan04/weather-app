@@ -104,7 +104,7 @@ function showAQI(data) {
     var levels = ["Good", "Fair", "Moderate", "Poor", "Very Poor"];
     var index = (aqiValue >= 1 && aqiValue <= 5) ? aqiValue - 1 : 0;
 
-    aqiBar.innerHTML = "<div> " + levels[index] + "</div>";
+    aqiBar.innerHTML = "<div> AQI: " + levels[index] + "</div>";
 }
 
 function setCityBackground(city) {
